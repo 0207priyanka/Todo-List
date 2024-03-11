@@ -33,7 +33,7 @@ This repository contains a simple To-Do List web application built with Vue.js. 
    ```
 2. Navigate to the project directory:
    ```
-   cd todo-list-app
+   cd todo-list
    
    ```
 3. install Dependencies
@@ -68,4 +68,4 @@ This project is licensed under the (MIT License).
 
    
 
->>>>>>> 06f0fd89445c4f043a614edc5058889ca65f2ef9
+
