@@ -72,6 +72,11 @@ This repository contains a simple To-Do List web application built with Vue.js. 
    ```
    npm run serve
    ```
+2. Run the json server:
+   ```
+   json-server --watch db.json
+   ```
+   
 - Open your web browser and go to http://localhost:8080/ to view the app.
 
 - Use the input field to add new tasks. Press Enter or click the "Add" button to add the task.
