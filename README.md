@@ -25,6 +25,19 @@ This repository contains a simple To-Do List web application built with Vue.js. 
 
 ## Project Setup
 
+## Prerequisites
+- Node.js and npm installed on your machine. You can download and install Node.js from [here](https://nodejs.org/).
+- Vue CLI installed globally. You can install it via npm with the following command:
+  ```bash
+  npm install -g @vue/cli
+- JSON Server installed globally. You can install it via npm with the following command:
+  ```
+  npm install -g json-server
+- Axios installed as a project dependency. You can install it via npm with the following command:
+  ```
+  npm install axios
+
+
 ### Installing Dependencies
 1. Clone the repository:
    ```
